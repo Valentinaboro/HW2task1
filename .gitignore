@@ -1,0 +1,10 @@
+# ignore temp folder
+tmp/
+
+# ignore backup/old variants
+*_old*
+*_backup*
+
+# ignore system junk
+Thumbs.db
+.DS_Store
